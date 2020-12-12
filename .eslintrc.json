@@ -27,7 +27,8 @@
             {
                 "ts": "never"
             }
-        ]
+        ],
+        "camelcase": ["error", {"properties": "never"}],
     },
     "settings": {
         "import/resolver" : {
